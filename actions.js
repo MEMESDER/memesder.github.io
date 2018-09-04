@@ -1,0 +1,3 @@
+$("#container").click(function() {
+    update();
+});
