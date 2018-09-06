@@ -34,3 +34,10 @@ img {
     max-height: 50%;
     max-width: 100%;
 }
+
+input {
+    text-align: center;
+    border-width: 0;
+    border-bottom-width: 1px;
+    font-size: 100%;
+}
